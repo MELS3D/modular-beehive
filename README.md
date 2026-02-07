@@ -59,7 +59,7 @@ Each module is:
 
 ### Print Bed Compatibility
 ✅ **Fully compatible with standard 256 × 256 × 256 mm print beds**  
-(Bambu Lab, Prusa XL segments, Creality, Elegoo, Anycubic, etc.)
+(Bambu Lab, Prusa XL, Creality, Elegoo, Anycubic, etc.)
 
 This design **eliminates the need for large-format or industrial 3D printers**.  
 Every component is sized to be printed on common consumer-grade machines.
