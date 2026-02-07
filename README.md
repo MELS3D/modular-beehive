@@ -4,7 +4,7 @@ A modular 3D-printed beehive system designed for sustainable beekeeping, local m
 
 
 This project reimagines the traditional beehive as a **scalable, repairable system** that grows with the colony instead of working against it.
-
+![Modular Beehive – Full Render](assets/images/renders/MELS%203D%20LABS%20MODULAR%20BEEHIVE.png)
 ---
 
 
