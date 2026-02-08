@@ -1,10 +1,11 @@
+![Modular Beehive – Full Render](assets/images/renders/MELS%203D%20LABS%20MODULAR%20BEEHIVE.png)
+![33% Scale Prototype – Assembled](experiments/prototype/images/prototype_33pct_assembled.jpeg)
 # 🐝 modular-beehive
 A modular 3D-printed beehive system designed for sustainable beekeeping, local manufacturing, and bee-first hive management.
 ### by **Mels 3D Labs**
 
-
 This project reimagines the traditional beehive as a **scalable, repairable system** that grows with the colony instead of working against it.
-![Modular Beehive – Full Render](assets/images/renders/MELS%203D%20LABS%20MODULAR%20BEEHIVE.png)
+
 ---
 
 
@@ -86,6 +87,26 @@ This is a **print-first, support-free, accessible design**.
 
 ---
 
+## 🧪 Physical Prototype Validation (33% Scale)
+
+This prototype represents a **33% scale FDM-printed physical validation** of the modular beehive system.
+
+It was produced to test:
+- dimensional fitment  
+- stacking and alignment logic  
+- tolerance behavior  
+- support-free print geometry  
+- internal airflow and access paths  
+
+The prototype confirms that the design:
+- prints reliably without supports  
+- stacks cleanly across modules  
+- maintains internal geometry at reduced scale  
+
+📂 **Full prototype documentation, images, and notes are available here:**  
+👉 [33% Scale Prototype Validation](experiments/prototype/)
+
+---
 ## 🐝 Bee-First Design Principles
 
 - Vertical expansion aligned with natural colony growth  
