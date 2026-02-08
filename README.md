@@ -1,6 +1,6 @@
 ![Modular Beehive – Full Render](assets/images/renders/MELS%203D%20LABS%20MODULAR%20BEEHIVE.png)
 ![33% Scale Prototype – Assembled](experiments/prototype/prototype_33pct_assembled.jpeg)
-# 🐝 modular-beehive
+# 🐝 Modular Beehive
 A modular 3D-printed beehive system designed for sustainable beekeeping, local manufacturing, and bee-first hive management.
 ### by **Mels 3D Labs**
 
