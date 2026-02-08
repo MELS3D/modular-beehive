@@ -24,7 +24,7 @@ The **Modular Beehive Platform** follows a different philosophy:
 > 
 Langstroth logic meets modern modular engineering.
 
-The goal is to eliminate barriers—technical, financial, and biological—while keeping bees at the center of the design.
+The goal is to eliminate barriers-technical, financial, and biological-while keeping bees at the center of the design.
 
 ---
 
@@ -74,8 +74,8 @@ Every component is sized to be printed on common consumer-grade machines.
 - Cleaner internal surfaces for bees  
 
 ### Recommended Materials
-- **PLA** – suitable for shaded or moderate climates  
-- **PETG** – recommended for outdoor, high-temperature, or high-humidity environments  
+- **PLA** - suitable for shaded or moderate climates  
+- **PETG** - recommended for outdoor, high-temperature, or high-humidity environments  
 
 ### Print Philosophy
 - minimal setup complexity  
